@@ -34,22 +34,6 @@ A beginner-friendly project demonstrating the use of **Socket.io**, **Node.js**,
 3. Socket.io: Library for real-time, bidirectional communication.
 4. React.js: JavaScript library for building user interfaces.
 
-## Project Structure
-
-socketio-room-messaging-app/
-├── server/
-│   ├── index.js        # Server entry point
-│   ├── package.json    # Server dependencies
-│   └── ...             # Other server files
-└── client/
-    ├── src/
-    │   ├── App.js      # Main React component
-    │   ├── index.js    # React entry point
-    │   ├── App.css     # Styling for the app
-    │   └── ...         # Other React files
-    ├── package.json    # Client dependencies
-    └── ...             # Other client files
-
 ## License
 
 This project is licensed under the MIT License.

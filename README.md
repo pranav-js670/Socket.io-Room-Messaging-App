@@ -13,7 +13,7 @@ A beginner-friendly project demonstrating the use of **Socket.io**, **Node.js**,
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/your-username/socketio-room-messaging-app.git
+   git clone https://github.com/pranav-js670/Socket.io-Room-Messaging-App.git
    ```
    
 3. Navigate to the project directory

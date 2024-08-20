@@ -11,18 +11,21 @@ A beginner-friendly project demonstrating the use of **Socket.io**, **Node.js**,
 ## Installation
 
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/your-username/socketio-room-messaging-app.git
    ```
-2. Navigate to the project directory
-3. Install server dependencies
-4. Install client dependencies
+   
+3. Navigate to the project directory
+4. Install server dependencies
+5. Install client dependencies
 
 ## Usage 
 
 1. Start the server
 2. Start the client
 3. Open your web browser and navigate to :
+   
    ```bash
    http://localhost:3000
    ```
